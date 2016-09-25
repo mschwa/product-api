@@ -1,0 +1,32 @@
+﻿{
+	"products": [
+		{
+			"ProductID": "1",
+			"ProductName": "Running Shoe"
+		},
+		{
+			"ProductID": "2",
+			"ProductName": "Dress Shoe"
+		},
+		{
+			"ProductID": "3",
+			"ProductName": "Running Shirt"
+		},
+		{
+			"ProductID": "4",
+			"ProductName": "Dress Shirt"
+		},
+		{
+			"ProductID": "5",
+			"ProductName": "Running Shorts"
+		},
+		{
+			"ProductID": "6",
+			"ProductName": "Dress Shorts"
+		},
+		{
+			"ProductID": "7",
+			"ProductName": "T-Shirt"
+		}
+	]
+}

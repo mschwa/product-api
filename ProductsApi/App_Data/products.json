@@ -1,0 +1,39 @@
+﻿{
+	"products": [
+		{
+			"ProductID": "1",
+			"ProductName": "Running Shoe",
+			"Category": "Running"
+		},
+		{
+			"ProductID": "2",
+			"ProductName": "Dress Shoe",
+			"Category": "Dress"
+		},
+		{
+			"ProductID": "3",
+			"ProductName": "Running Shirt",
+			"Category": "Running"
+		},
+		{
+			"ProductID": "4",
+			"ProductName": "Dress Shirt",
+			"Category": "Dress"
+		},
+		{
+			"ProductID": "5",
+			"ProductName": "Running Shorts",
+			"Category": "Running"
+		},
+		{
+			"ProductID": "6",
+			"ProductName": "Dress Shorts",
+			"Category": "Dress"
+		},
+		{
+			"ProductID": "7",
+			"ProductName": "T-Shirt",
+			"Category": "Casual"
+		}
+	]
+}
